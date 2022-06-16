@@ -1,4 +1,5 @@
 <template>
+  <p>felipe</p>
   <p>MARIARIORIARIRARIO</p>
   <div class="hello">
     <h1>{{ msg }}</h1>
