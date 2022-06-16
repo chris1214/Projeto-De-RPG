@@ -1,6 +1,6 @@
 <template>
   <p>felipe</p>
-  <p>MARIARIORIARIRARIO</p>
+  <p>Marcelo Bola Torta</p>
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
