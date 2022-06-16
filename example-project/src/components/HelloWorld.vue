@@ -2,6 +2,7 @@
   <div>
     <p>felipe</p>
     <p>Marcelo Bola Torta</p>
+    <p>Mamaco</p>
   </div>
 </template>
 
