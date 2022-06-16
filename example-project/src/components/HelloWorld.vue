@@ -1,7 +1,7 @@
 <template>
   <p>felipe</p>
   <p>Marcelo Bola Torta</p>
-  <div class="hello">
+  <div class="hello"/>
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
@@ -82,6 +82,11 @@
         </a>
       </li>
     </ul>
+=======
+  <div>
+    <p>felipe</p>
+    <p>MARIARIORIARIRARIO</p>
+>>>>>>> e866265ae768623c4ac57b654dec39a0070c075c
   </div>
 </template>
 
